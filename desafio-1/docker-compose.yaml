@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  app:
+    image: marcelocorrea/go-desafio-1
+    ports:
+      - 80:8000
